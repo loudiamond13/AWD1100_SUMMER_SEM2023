@@ -1,0 +1,8 @@
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT01\HOT1-TShirtsConsole\bin\Debug\HOT1-TShirtsConsole.exe.config
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT01\HOT1-TShirtsConsole\bin\Debug\HOT1-TShirtsConsole.exe
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT01\HOT1-TShirtsConsole\bin\Debug\HOT1-TShirtsConsole.pdb
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT01\HOT1-TShirtsConsole\obj\Debug\HOT1-TShirtsConsole.csproj.AssemblyReference.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT01\HOT1-TShirtsConsole\obj\Debug\HOT1-TShirtsConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT01\HOT1-TShirtsConsole\obj\Debug\HOT1-TShirtsConsole.csproj.CoreCompileInputs.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT01\HOT1-TShirtsConsole\obj\Debug\HOT1-TShirtsConsole.exe
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT01\HOT1-TShirtsConsole\obj\Debug\HOT1-TShirtsConsole.pdb

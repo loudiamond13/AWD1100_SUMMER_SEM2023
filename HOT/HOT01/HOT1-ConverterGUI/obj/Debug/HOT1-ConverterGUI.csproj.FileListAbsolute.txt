@@ -1,0 +1,11 @@
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT01\HOT1-ConverterGUI\bin\Debug\HOT1-ConverterGUI.exe.config
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT01\HOT1-ConverterGUI\bin\Debug\HOT1-ConverterGUI.exe
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT01\HOT1-ConverterGUI\bin\Debug\HOT1-ConverterGUI.pdb
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT01\HOT1-ConverterGUI\obj\Debug\HOT1-ConverterGUI.csproj.AssemblyReference.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT01\HOT1-ConverterGUI\obj\Debug\HOT1-ConverterGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT01\HOT1-ConverterGUI\obj\Debug\HOT1_ConverterGUI.Properties.Resources.resources
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT01\HOT1-ConverterGUI\obj\Debug\HOT1-ConverterGUI.csproj.GenerateResource.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT01\HOT1-ConverterGUI\obj\Debug\HOT1-ConverterGUI.csproj.CoreCompileInputs.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT01\HOT1-ConverterGUI\obj\Debug\HOT1-ConverterGUI.exe
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT01\HOT1-ConverterGUI\obj\Debug\HOT1-ConverterGUI.pdb
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT01\HOT1-ConverterGUI\obj\Debug\HOT1_ConverterGUI.Form1.resources
