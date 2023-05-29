@@ -1,0 +1,11 @@
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_Ch04-2\HomeWork_Ch04-2\bin\Debug\HomeWork_Ch04-2.exe.config
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_Ch04-2\HomeWork_Ch04-2\bin\Debug\HomeWork_Ch04-2.exe
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_Ch04-2\HomeWork_Ch04-2\bin\Debug\HomeWork_Ch04-2.pdb
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_Ch04-2\HomeWork_Ch04-2\obj\Debug\HomeWork_Ch04-2.csproj.AssemblyReference.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_Ch04-2\HomeWork_Ch04-2\obj\Debug\HomeWork_Ch04-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_Ch04-2\HomeWork_Ch04-2\obj\Debug\HomeWork_Ch04_2.scoreAccumulator.resources
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_Ch04-2\HomeWork_Ch04-2\obj\Debug\HomeWork_Ch04_2.Properties.Resources.resources
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_Ch04-2\HomeWork_Ch04-2\obj\Debug\HomeWork_Ch04-2.csproj.GenerateResource.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_Ch04-2\HomeWork_Ch04-2\obj\Debug\HomeWork_Ch04-2.csproj.CoreCompileInputs.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_Ch04-2\HomeWork_Ch04-2\obj\Debug\HomeWork_Ch04-2.exe
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_Ch04-2\HomeWork_Ch04-2\obj\Debug\HomeWork_Ch04-2.pdb

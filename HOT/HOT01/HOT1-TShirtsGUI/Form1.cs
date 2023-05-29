@@ -92,11 +92,11 @@ namespace HOT1_TShirtsGUI
             const decimal SHIRTprice    = 14.99m;   // a shirt price 
             //decimal tax                 = 00.00m;   // tax var
 
-
+            decimal subTotal = 0.0m;
 
 
             // solve and get the total price, tax 
-            decimal subTotal = shirtsOrdered * SHIRTprice;
+             subTotal = shirtsOrdered * SHIRTprice;
             decimal tax = subTotal * TAXpercentage;
             decimal total = subTotal + tax;
 

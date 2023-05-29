@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace HOT1_ConverterGUI
@@ -64,8 +57,15 @@ namespace HOT1_ConverterGUI
 
         private void btnConvert_Click(object sender, EventArgs e)
         {
+            decimal inches = 0.0m;
+
+
+
+
+
+
             // take the input value
-            decimal inches = Convert.ToDecimal(txtDistance.Text);
+             inches = Convert.ToDecimal(txtDistance.Text);
             //declaring variables
             decimal CM_PER_IN = 2.54m;
 
