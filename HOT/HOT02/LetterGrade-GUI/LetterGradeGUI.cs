@@ -83,7 +83,7 @@ namespace LetterGrade_GUI
 
         const decimal Bgrade = 3.2m;
         const decimal Cgrade = 2.5m;
-        const decimal Dgrade = 1.0m;
+        const decimal Dgrade = 1.5m;
         const decimal FgradeMIN = 0.0m;
 
         private void calculateToLetterGrade()
@@ -107,12 +107,12 @@ namespace LetterGrade_GUI
             {
                 resultLetter = "B";
             }
-            // if number grade is > 1.0 = C grade 
+            // if number grade is > 1.5 = C grade 
             else if ((numGrade > Dgrade) && (numGrade <= Cgrade))
             {
                 resultLetter = "C";
             }
-            // if number grade is < 1.0 = D grade 
+            // if number grade is < 1.5 = D grade 
             else if ((numGrade > FgradeMIN) && (numGrade <= Dgrade))
             {
                 resultLetter = "D";

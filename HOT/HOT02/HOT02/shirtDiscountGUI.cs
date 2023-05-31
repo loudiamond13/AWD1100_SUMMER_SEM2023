@@ -45,26 +45,35 @@ namespace HOT02
 
         private void btnOrder_Click(object sender, EventArgs e)
         {
+
+
+
             //declaring variables
             bool validInput;
 
-            int inputQTY = int.Parse(txtQTY.Text);
+            // gets users input 
             string discCode = txtDiscCode.Text;
             decimal discount = 0; //= decimal.Parse(discCode);
 
 
-            validInput = validateInput();
+            validInput = validateInput();    // validate inputs
 
-            if (!validInput)
+            if (!validInput) // if not valid, show error.
             {
                 invalidInput();
             }
+
+            // else if inputs are valid, perform calculation
             else if (validInput)
             {
+                // take the qty.
+                int inputQTY = int.Parse(txtQTY.Text);
+
+
                 discount = checkDiscountCode(discCode);
 
 
-
+                // show invoice/result to the user.
                 showInvoice(inputQTY, discount);
             }
             else 
@@ -151,7 +160,8 @@ namespace HOT02
         }
         private decimal checkDiscountCode(string discCode)
         {
-            decimal discPercent;
+            //declaring local variable
+            decimal discPercent = 0;
 
             // checking the disc code and returning discount percentage if valid
             switch (discCode) 
@@ -178,23 +188,29 @@ namespace HOT02
 
         private bool validateInput()
         {
+            //declaring variables and boolean
             bool isValid;
 
-            int number;
+            int number = 0;
 
-            bool validQTY = int.TryParse(txtQTY.Text, out number);
+            // checks if quantity input is valid, must be integer
+            // returns false if input is empty or not integer
+            bool validQTY = int.TryParse((txtQTY.Text).Trim(), out number);
 
-            if (!validQTY)
+
+            // if not valid input, return false
+            if (!validQTY)  
             {
                 isValid = false;
             }
-            else if(txtQTY.Text.Trim() == "")
-            {
+            // if qty input is < 0, return false
+          else if(number < 0)
+           {
                 
                
-                isValid = false;
+               isValid = false;
 
-            }
+           }
             else { isValid = true; }
 
            
@@ -210,6 +226,9 @@ namespace HOT02
                    "Invalid Input",
                    MessageBoxButtons.OK,
                    MessageBoxIcon.Error);
+
+            txtQTY.Focus();
+            return;
         }
 
         private void btnExit_Click(object sender, EventArgs e)
