@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOT02", "HOT02\HOT02.csproj", "{6C31B39B-E336-4454-AD7B-7F8232C1B78C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShirtDiscountGUI", "HOT02\ShirtDiscountGUI.csproj", "{6C31B39B-E336-4454-AD7B-7F8232C1B78C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterGrade-GUI", "LetterGrade-GUI\LetterGrade-GUI.csproj", "{27A46CD7-EC95-4389-8E60-CE14B3ACEFF2}"
 EndProject
