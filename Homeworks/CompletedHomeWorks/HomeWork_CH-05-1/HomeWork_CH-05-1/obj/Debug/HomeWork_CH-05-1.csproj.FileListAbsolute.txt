@@ -1,0 +1,11 @@
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH-05-1\HomeWork_CH-05-1\bin\Debug\HomeWork_CH-05-1.exe.config
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH-05-1\HomeWork_CH-05-1\bin\Debug\HomeWork_CH-05-1.exe
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH-05-1\HomeWork_CH-05-1\bin\Debug\HomeWork_CH-05-1.pdb
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH-05-1\HomeWork_CH-05-1\obj\Debug\HomeWork_CH-05-1.csproj.AssemblyReference.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH-05-1\HomeWork_CH-05-1\obj\Debug\HomeWork_CH-05-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH-05-1\HomeWork_CH-05-1\obj\Debug\HomeWork_CH_05_1.Form1.resources
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH-05-1\HomeWork_CH-05-1\obj\Debug\HomeWork_CH_05_1.Properties.Resources.resources
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH-05-1\HomeWork_CH-05-1\obj\Debug\HomeWork_CH-05-1.csproj.GenerateResource.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH-05-1\HomeWork_CH-05-1\obj\Debug\HomeWork_CH-05-1.csproj.CoreCompileInputs.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH-05-1\HomeWork_CH-05-1\obj\Debug\HomeWork_CH-05-1.exe
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH-05-1\HomeWork_CH-05-1\obj\Debug\HomeWork_CH-05-1.pdb
