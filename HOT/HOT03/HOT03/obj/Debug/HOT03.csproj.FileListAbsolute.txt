@@ -1,0 +1,11 @@
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT03\HOT03\bin\Debug\HOT03.exe.config
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT03\HOT03\bin\Debug\HOT03.exe
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT03\HOT03\bin\Debug\HOT03.pdb
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT03\HOT03\obj\Debug\HOT03.csproj.AssemblyReference.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT03\HOT03\obj\Debug\HOT03.csproj.SuggestedBindingRedirects.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT03\HOT03\obj\Debug\HOT03.Properties.Resources.resources
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT03\HOT03\obj\Debug\HOT03.csproj.GenerateResource.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT03\HOT03\obj\Debug\HOT03.csproj.CoreCompileInputs.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT03\HOT03\obj\Debug\HOT03.exe
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT03\HOT03\obj\Debug\HOT03.pdb
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT03\HOT03\obj\Debug\HOT03.frmHOT03GUIarray.resources
