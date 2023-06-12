@@ -1,0 +1,17 @@
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH08-2\ScoreCalculator\obj\Debug\net7.0-windows\ScoreCalculator.csproj.AssemblyReference.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH08-2\ScoreCalculator\obj\Debug\net7.0-windows\ScoreCalculator.csproj.GenerateResource.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH08-2\ScoreCalculator\obj\Debug\net7.0-windows\ScoreCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH08-2\ScoreCalculator\obj\Debug\net7.0-windows\ScoreCalculator.AssemblyInfoInputs.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH08-2\ScoreCalculator\obj\Debug\net7.0-windows\ScoreCalculator.AssemblyInfo.cs
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH08-2\ScoreCalculator\obj\Debug\net7.0-windows\ScoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH08-2\ScoreCalculator\bin\Debug\net7.0-windows\ScoreCalculator.exe
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH08-2\ScoreCalculator\bin\Debug\net7.0-windows\ScoreCalculator.deps.json
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH08-2\ScoreCalculator\bin\Debug\net7.0-windows\ScoreCalculator.runtimeconfig.json
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH08-2\ScoreCalculator\bin\Debug\net7.0-windows\ScoreCalculator.dll
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH08-2\ScoreCalculator\bin\Debug\net7.0-windows\ScoreCalculator.pdb
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH08-2\ScoreCalculator\obj\Debug\net7.0-windows\ScoreCalculator.dll
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH08-2\ScoreCalculator\obj\Debug\net7.0-windows\refint\ScoreCalculator.dll
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH08-2\ScoreCalculator\obj\Debug\net7.0-windows\ScoreCalculator.pdb
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH08-2\ScoreCalculator\obj\Debug\net7.0-windows\ScoreCalculator.genruntimeconfig.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH08-2\ScoreCalculator\obj\Debug\net7.0-windows\ref\ScoreCalculator.dll
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH08-2\ScoreCalculator\obj\Debug\net7.0-windows\ScoreCalculator.frmScoreCalculatorList.resources
