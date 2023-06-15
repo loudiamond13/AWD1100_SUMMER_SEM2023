@@ -1,0 +1,17 @@
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH09-1\Reservations\bin\Debug\net7.0-windows\Reservations.exe
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH09-1\Reservations\bin\Debug\net7.0-windows\Reservations.deps.json
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH09-1\Reservations\bin\Debug\net7.0-windows\Reservations.runtimeconfig.json
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH09-1\Reservations\bin\Debug\net7.0-windows\Reservations.dll
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH09-1\Reservations\bin\Debug\net7.0-windows\Reservations.pdb
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH09-1\Reservations\obj\Debug\net7.0-windows\Reservations.csproj.AssemblyReference.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH09-1\Reservations\obj\Debug\net7.0-windows\Reservations.frmReservations.resources
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH09-1\Reservations\obj\Debug\net7.0-windows\Reservations.csproj.GenerateResource.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH09-1\Reservations\obj\Debug\net7.0-windows\Reservations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH09-1\Reservations\obj\Debug\net7.0-windows\Reservations.AssemblyInfoInputs.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH09-1\Reservations\obj\Debug\net7.0-windows\Reservations.AssemblyInfo.cs
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH09-1\Reservations\obj\Debug\net7.0-windows\Reservations.csproj.CoreCompileInputs.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH09-1\Reservations\obj\Debug\net7.0-windows\Reservations.dll
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH09-1\Reservations\obj\Debug\net7.0-windows\refint\Reservations.dll
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH09-1\Reservations\obj\Debug\net7.0-windows\Reservations.pdb
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH09-1\Reservations\obj\Debug\net7.0-windows\Reservations.genruntimeconfig.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH09-1\Reservations\obj\Debug\net7.0-windows\ref\Reservations.dll
