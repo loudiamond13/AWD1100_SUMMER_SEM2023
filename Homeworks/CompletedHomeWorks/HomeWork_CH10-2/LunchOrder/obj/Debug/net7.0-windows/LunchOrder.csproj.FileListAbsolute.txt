@@ -1,0 +1,17 @@
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH10-2\LunchOrder\bin\Debug\net7.0-windows\LunchOrder.exe
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH10-2\LunchOrder\bin\Debug\net7.0-windows\LunchOrder.deps.json
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH10-2\LunchOrder\bin\Debug\net7.0-windows\LunchOrder.runtimeconfig.json
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH10-2\LunchOrder\bin\Debug\net7.0-windows\LunchOrder.dll
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH10-2\LunchOrder\bin\Debug\net7.0-windows\LunchOrder.pdb
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH10-2\LunchOrder\obj\Debug\net7.0-windows\LunchOrder.csproj.AssemblyReference.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH10-2\LunchOrder\obj\Debug\net7.0-windows\LunchOrder.csproj.GenerateResource.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH10-2\LunchOrder\obj\Debug\net7.0-windows\LunchOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH10-2\LunchOrder\obj\Debug\net7.0-windows\LunchOrder.AssemblyInfoInputs.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH10-2\LunchOrder\obj\Debug\net7.0-windows\LunchOrder.AssemblyInfo.cs
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH10-2\LunchOrder\obj\Debug\net7.0-windows\LunchOrder.csproj.CoreCompileInputs.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH10-2\LunchOrder\obj\Debug\net7.0-windows\LunchOrder.dll
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH10-2\LunchOrder\obj\Debug\net7.0-windows\refint\LunchOrder.dll
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH10-2\LunchOrder\obj\Debug\net7.0-windows\LunchOrder.pdb
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH10-2\LunchOrder\obj\Debug\net7.0-windows\LunchOrder.genruntimeconfig.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH10-2\LunchOrder\obj\Debug\net7.0-windows\ref\LunchOrder.dll
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Homeworks\CompletedHomeWorks\HomeWork_CH10-2\LunchOrder\obj\Debug\net7.0-windows\LunchOrder.frmLunchOrder.resources
