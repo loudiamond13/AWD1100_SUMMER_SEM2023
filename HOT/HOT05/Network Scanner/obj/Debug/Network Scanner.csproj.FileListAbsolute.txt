@@ -1,0 +1,11 @@
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT05\Network Scanner\bin\Debug\Network Scanner.exe.config
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT05\Network Scanner\bin\Debug\Network Scanner.exe
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT05\Network Scanner\bin\Debug\Network Scanner.pdb
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT05\Network Scanner\obj\Debug\Network Scanner.csproj.AssemblyReference.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT05\Network Scanner\obj\Debug\Network Scanner.csproj.SuggestedBindingRedirects.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT05\Network Scanner\obj\Debug\Network_Scanner.frmNetworkScanner.resources
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT05\Network Scanner\obj\Debug\Network_Scanner.Properties.Resources.resources
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT05\Network Scanner\obj\Debug\Network Scanner.csproj.GenerateResource.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT05\Network Scanner\obj\Debug\Network Scanner.csproj.CoreCompileInputs.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT05\Network Scanner\obj\Debug\Network Scanner.exe
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\HOT\HOT05\Network Scanner\obj\Debug\Network Scanner.pdb
