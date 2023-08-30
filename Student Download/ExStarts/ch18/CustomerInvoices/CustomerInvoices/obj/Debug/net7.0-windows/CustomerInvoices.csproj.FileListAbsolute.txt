@@ -1,0 +1,17 @@
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Student Download\ExStarts\ch18\CustomerInvoices\CustomerInvoices\bin\Debug\net7.0-windows\CustomerInvoices.exe
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Student Download\ExStarts\ch18\CustomerInvoices\CustomerInvoices\bin\Debug\net7.0-windows\CustomerInvoices.deps.json
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Student Download\ExStarts\ch18\CustomerInvoices\CustomerInvoices\bin\Debug\net7.0-windows\CustomerInvoices.runtimeconfig.json
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Student Download\ExStarts\ch18\CustomerInvoices\CustomerInvoices\bin\Debug\net7.0-windows\CustomerInvoices.dll
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Student Download\ExStarts\ch18\CustomerInvoices\CustomerInvoices\bin\Debug\net7.0-windows\CustomerInvoices.pdb
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Student Download\ExStarts\ch18\CustomerInvoices\CustomerInvoices\obj\Debug\net7.0-windows\CustomerInvoices.csproj.AssemblyReference.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Student Download\ExStarts\ch18\CustomerInvoices\CustomerInvoices\obj\Debug\net7.0-windows\CustomerInvoices.frmCustomerInvoices.resources
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Student Download\ExStarts\ch18\CustomerInvoices\CustomerInvoices\obj\Debug\net7.0-windows\CustomerInvoices.csproj.GenerateResource.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Student Download\ExStarts\ch18\CustomerInvoices\CustomerInvoices\obj\Debug\net7.0-windows\CustomerInvoices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Student Download\ExStarts\ch18\CustomerInvoices\CustomerInvoices\obj\Debug\net7.0-windows\CustomerInvoices.AssemblyInfoInputs.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Student Download\ExStarts\ch18\CustomerInvoices\CustomerInvoices\obj\Debug\net7.0-windows\CustomerInvoices.AssemblyInfo.cs
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Student Download\ExStarts\ch18\CustomerInvoices\CustomerInvoices\obj\Debug\net7.0-windows\CustomerInvoices.csproj.CoreCompileInputs.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Student Download\ExStarts\ch18\CustomerInvoices\CustomerInvoices\obj\Debug\net7.0-windows\CustomerInvoices.dll
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Student Download\ExStarts\ch18\CustomerInvoices\CustomerInvoices\obj\Debug\net7.0-windows\refint\CustomerInvoices.dll
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Student Download\ExStarts\ch18\CustomerInvoices\CustomerInvoices\obj\Debug\net7.0-windows\CustomerInvoices.pdb
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Student Download\ExStarts\ch18\CustomerInvoices\CustomerInvoices\obj\Debug\net7.0-windows\CustomerInvoices.genruntimeconfig.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\Student Download\ExStarts\ch18\CustomerInvoices\CustomerInvoices\obj\Debug\net7.0-windows\ref\CustomerInvoices.dll
