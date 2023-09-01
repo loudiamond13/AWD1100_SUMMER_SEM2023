@@ -1,0 +1,12 @@
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\SongLibrary\bin\Debug\net7.0\SongLibrary.deps.json
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\SongLibrary\bin\Debug\net7.0\SongLibrary.dll
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\SongLibrary\bin\Debug\net7.0\SongLibrary.pdb
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\SongLibrary\obj\Debug\net7.0\SongLibrary.csproj.AssemblyReference.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\SongLibrary\obj\Debug\net7.0\SongLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\SongLibrary\obj\Debug\net7.0\SongLibrary.AssemblyInfoInputs.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\SongLibrary\obj\Debug\net7.0\SongLibrary.AssemblyInfo.cs
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\SongLibrary\obj\Debug\net7.0\SongLibrary.csproj.CoreCompileInputs.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\SongLibrary\obj\Debug\net7.0\SongLibrary.dll
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\SongLibrary\obj\Debug\net7.0\refint\SongLibrary.dll
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\SongLibrary\obj\Debug\net7.0\SongLibrary.pdb
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\SongLibrary\obj\Debug\net7.0\ref\SongLibrary.dll

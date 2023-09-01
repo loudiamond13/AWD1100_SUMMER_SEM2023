@@ -1,0 +1,12 @@
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\EmployeeLibrary\obj\Debug\net7.0\EmployeeLibrary.csproj.AssemblyReference.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\EmployeeLibrary\obj\Debug\net7.0\EmployeeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\EmployeeLibrary\obj\Debug\net7.0\EmployeeLibrary.AssemblyInfoInputs.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\EmployeeLibrary\obj\Debug\net7.0\EmployeeLibrary.AssemblyInfo.cs
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\EmployeeLibrary\obj\Debug\net7.0\EmployeeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\EmployeeLibrary\bin\Debug\net7.0\EmployeeLibrary.deps.json
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\EmployeeLibrary\bin\Debug\net7.0\EmployeeLibrary.dll
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\EmployeeLibrary\bin\Debug\net7.0\EmployeeLibrary.pdb
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\EmployeeLibrary\obj\Debug\net7.0\EmployeeLibrary.dll
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\EmployeeLibrary\obj\Debug\net7.0\refint\EmployeeLibrary.dll
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\EmployeeLibrary\obj\Debug\net7.0\EmployeeLibrary.pdb
+C:\Users\diamo\Desktop\C#_SUMMER_SEM\AWD1100-Summer2023-LouDiamondLoyloy-master\LINQ\EmployeeLibrary\obj\Debug\net7.0\ref\EmployeeLibrary.dll

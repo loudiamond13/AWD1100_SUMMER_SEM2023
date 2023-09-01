@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SongSearchConsole/1.0.0": {
+        "dependencies": {
+          "SongLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SongSearchConsole.dll": {}
+        }
+      },
+      "SongLibrary/1.0.0": {
+        "runtime": {
+          "SongLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SongSearchConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SongLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
